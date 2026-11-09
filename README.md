@@ -218,27 +218,56 @@ I'm continuously developing the technical foundations needed to become a Data En
 - Data-Driven Applications
 
 ---
-## 📊 GitHub Statistics
+<!-- GITHUB ANALYTICS -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <samp>MY DEVELOPMENT ACTIVITY • CONTRIBUTIONS • TECHNOLOGY STACK</samp>
+</p>
+
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=riy3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=riy3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    width="100%"
+    alt="GitHub Performance"
+  />
 </td>
-
 <td width="50%" align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=riy3d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=riy3d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="100%"
+    alt="Technology Distribution"
+  />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=riy3d&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=riy3d&theme=tokyonight&hide_border=true"
+  width="85%"
+  alt="Contribution Streak"
+/>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ENGINEERING-36BCF7?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/BUILDING-EVERY%20DAY-8957E5?style=for-the-badge&labelColor=161B22" />
+</p>
 
 </div>
+
+<br/>
+
+<!-- END GITHUB ANALYTICS -->
 ---
 
 ## 📈 Contribution Activity
