@@ -325,7 +325,7 @@ I'm continuously developing the technical foundations needed to become a Data En
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%" />
+<img src="./github-metrics.svg" alt="Riyad's GitHub Metrics Dashboard" width="100%" />
 
 </div>
 
