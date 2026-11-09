@@ -1,0 +1,46 @@
+name: Update GitHub Metrics Dashboard
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate_metrics.py"
+      - ".github/workflows/github-metrics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Real GitHub Metrics
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/generate_metrics.py
+
+      - name: Commit Updated Dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add github-metrics.svg
+
+          git diff --cached --quiet || git commit -m "chore: update real GitHub metrics"
+
+          git push
