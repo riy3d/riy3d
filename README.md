@@ -282,13 +282,46 @@ I'm continuously developing the technical foundations needed to become a Data En
 <!-- END GITHUB ANALYTICS -->
 ---
 
-## 📈 Contribution Activity
+<!-- CONTRIBUTION ACTIVITY -->
+<h2 align="center">⚡ Contribution Activity</h2>
+
+<p align="center">
+  <samp>CONSISTENCY • PROGRESS • CONTINUOUS LEARNING</samp>
+</p>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riy3d&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+<a href="https://github.com/riy3d">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=riy3d&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Riyad's%20Contribution%20Journey"
+  width="100%"
+  alt="Riyad's GitHub Contribution Activity"
+/>
+
+</a>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/01-CONSISTENCY-0EA5E9?style=for-the-badge&labelColor=0D1117"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/02-PROGRESS-8B5CF6?style=for-the-badge&labelColor=0D1117"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/03-ENGINEERING-06B6D4?style=for-the-badge&labelColor=0D1117"
+/>
 
 </div>
+
+<br/>
+
+<!-- END CONTRIBUTION ACTIVITY -->
 
 ---
 
