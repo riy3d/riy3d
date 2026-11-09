@@ -321,13 +321,27 @@ I'm continuously developing the technical foundations needed to become a Data En
 <!-- END CONTRIBUTION ACTIVITY DASHBOARD -->
 ---
 
-## 📅 GitHub Metrics Dashboard
+<!-- GITHUB METRICS DASHBOARD -->
+
+<h2 align="center">📊 GitHub Metrics Dashboard</h2>
+
+<p align="center">
+  <samp>PERFORMANCE • ANALYTICS • GROWTH</samp>
+</p>
+
+<br/>
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="Riyad's GitHub Metrics Dashboard" width="100%" />
+<img
+  src="./github-metrics.svg"
+  alt="Riyad's GitHub Metrics Dashboard"
+  width="100%"
+/>
 
 </div>
+
+<!-- END GITHUB METRICS DASHBOARD -->
 
 ---
 
