@@ -345,33 +345,76 @@ Practical exercises and projects focused on developing data engineering workflow
 <!-- END FEATURED PROJECTS -->
 ---
 
-## 📚 Currently Learning
+<!-- CURRENTLY LEARNING -->
 
-I'm continuously developing the technical foundations needed to become a Data Engineer.
+<h2 align="center">📚 Currently Learning</h2>
 
-| Area | Current Focus |
-|---|---|
-| Python | Programming, OOP & Data Processing |
-| SQL | Advanced Queries & Database Design |
-| Data Engineering | ETL & End-to-End Pipelines |
-| Databases | Relational Database Management |
-| Data Structures | Algorithms & Problem Solving |
-| Cloud | Cloud Data Engineering Fundamentals |
-| Artificial Intelligence | Recommendation Systems & AI Applications |
+<p align="center">
+  <samp>EXPLORING • PRACTICING • IMPROVING • GROWING</samp>
+</p>
 
----
+<br/>
 
-## 🔬 Engineering Interests
+<p align="center">
+  Continuously developing the technical foundations
+  needed to become a Data Engineer.
+</p>
 
-- Data Engineering
-- Cloud Data Engineering
-- Big Data Technologies
-- Data Pipelines & ETL
-- Database Architecture
-- Distributed Data Systems
-- Artificial Intelligence
-- Recommendation Systems
-- Data-Driven Applications
+<br/>
+
+<div align="center">
+
+| Learning Area | Current Focus |
+|:---:|:---|
+| 🐍 **Python** | Programming, OOP &amp; Data Processing |
+| 🗄️ **SQL** | Advanced Queries &amp; Database Design |
+| ⚙️ **Data Engineering** | ETL &amp; End-to-End Pipelines |
+| 🛢️ **Databases** | Relational Database Management |
+| 🧩 **Data Structures** | Algorithms &amp; Problem Solving |
+| ☁️ **Cloud** | Cloud Data Engineering Fundamentals |
+| 🤖 **Artificial Intelligence** | Recommendation Systems &amp; AI Applications |
+
+</div>
+
+<br/>
+
+<!-- ENGINEERING INTERESTS -->
+
+<h2 align="center">🔬 Engineering Interests</h2>
+
+<p align="center">
+  <samp>DATA • SYSTEMS • CLOUD • INTELLIGENCE</samp>
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Engineering-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud%20Data%20Engineering-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Big%20Data%20Technologies-0891B2?style=flat-square"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Data%20Pipelines%20%26%20ETL-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database%20Architecture-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Distributed%20Data%20Systems-0284C7?style=flat-square"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recommendation%20Systems-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data--Driven%20Applications-16A34A?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <samp>LEARN WITH PURPOSE • BUILD WITH PASSION • GROW WITH CONSISTENCY</samp>
+</p>
+
+<!-- END CURRENTLY LEARNING & ENGINEERING INTERESTS -->
 
 ---
 <!-- GITHUB ANALYTICS -->
