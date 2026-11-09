@@ -26,25 +26,62 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT ME -->
 
-I'm **Riyad Ayman Shoura**, a Mathematics and Computer Science student at **Menoufia University, Egypt**.
+<h2 align="center">👨‍💻 About Me</h2>
 
-I'm interested in understanding how data is collected, processed, structured, and transformed into reliable information and intelligent applications.
+<p align="center">
+  <samp>MATHEMATICS • COMPUTER SCIENCE • DATA ENGINEERING</samp>
+</p>
 
-My primary career direction is **Data Engineering**, with a growing interest in **Cloud Data Engineering, Database Systems, and Artificial Intelligence**.
+<br/>
 
-I enjoy combining mathematical thinking, programming, and engineering principles to solve practical problems and build useful systems.
+<p align="center">
+  Hi, I'm <b>Riyad Ayman Shoura</b>, a Mathematics &amp; Computer Science student
+  at <b>Menoufia University, Egypt</b>.
+  <br/><br/>
+  I'm passionate about understanding how data is collected, processed,
+  structured, and transformed into reliable information and intelligent applications.
+  <br/><br/>
+  My primary career direction is <b>Data Engineering</b>, with a growing interest
+  in <b>Cloud Data Engineering, Database Systems, and Artificial Intelligence</b>.
+  <br/><br/>
+  I enjoy combining mathematical thinking, programming, and engineering principles
+  to solve practical problems and build meaningful solutions.
+</p>
 
-### 🎯 My Engineering Goals
+<br/>
 
-- Build reliable, end-to-end data pipelines.
-- Develop strong Python and SQL skills.
-- Design and manage relational database systems.
-- Understand modern data architectures and cloud infrastructure.
-- Explore AI-powered applications and recommendation systems.
-- Turn raw data into structured, meaningful information.
+<h3 align="center">🎯 My Engineering Goals</h3>
 
+<p align="center">
+  <samp>LEARNING • BUILDING • DESIGNING • INNOVATING</samp>
+</p>
+
+<br/>
+
+<div align="center">
+
+| # | Engineering Focus |
+|:---:|:---|
+| 01 | Building reliable, end-to-end data pipelines |
+| 02 | Developing strong Python and SQL skills |
+| 03 | Designing and managing relational database systems |
+| 04 | Understanding modern data architectures and cloud infrastructure |
+| 05 | Exploring AI-powered applications and recommendation systems |
+| 06 | Transforming raw data into structured, meaningful information |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <b>My Vision</b>
+  <br/>
+  <samp>Turning Data Into Knowledge. Engineering Ideas Into Solutions.</samp>
+</p>
+
+<!-- END ABOUT ME -->
 ---
 
 ## 🛠️ Technical Skills
