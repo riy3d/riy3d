@@ -294,11 +294,13 @@ I'm continuously developing the technical foundations needed to become a Data En
 
 <div align="center">
 
-<img
-  src="./assets/contribution-activity.svg"
-  width="100%"
-  alt="Riyad's GitHub Contribution Dashboard"
-/>
+<a href="https://github.com/riy3d">
+  <img
+    src="https://raw.githubusercontent.com/riy3d/riy3d/main/assets/contribution-activity.svg"
+    width="100%"
+    alt="Riyad Premium GitHub Contribution Dashboard"
+  />
+</a>
 
 <br/><br/>
 
