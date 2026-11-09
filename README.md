@@ -258,9 +258,21 @@ I'm continuously developing the technical foundations needed to become a Data En
 
 <br/><br/>
 
+<!-- FOCUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-DATA%20ENGINEERING-36BCF7?style=for-the-badge&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/BUILDING-EVERY%20DAY-8957E5?style=for-the-badge&labelColor=161B22" />
+  <a href="https://github.com/riy3d">
+    <img
+      src="https://img.shields.io/badge/✦%20FOCUS-DATA%20ENGINEERING-0EA5E9?style=for-the-badge&labelColor=111827"
+      alt="Focus Data Engineering"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/riy3d">
+    <img
+      src="https://img.shields.io/badge/⚡%20STATUS-BUILDING%20EVERY%20DAY-8B5CF6?style=for-the-badge&labelColor=111827"
+      alt="Building Every Day"
+    />
+  </a>
 </p>
 
 </div>
