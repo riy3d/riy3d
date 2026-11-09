@@ -88,7 +88,7 @@
 <h2 align="center">🛠️ Technical Skills</h2>
 
 <p align="center">
-  <samp>PROGRAMMING • DATABASES • ENGINEERING • TOOLS</samp>
+  <samp>PROGRAMMING • DATABASES • DATA ENGINEERING • DEVELOPMENT TOOLS</samp>
 </p>
 
 <br/>
@@ -98,7 +98,7 @@
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp" alt="Programming Languages" />
 </p>
 
 <div align="center">
@@ -117,31 +117,20 @@
 <h3 align="center">🗄️ Databases &amp; Data Engineering</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database Technologies" />
 </p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Relational%20Database%20Design-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database%20Modeling%20%26%20Normalization-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL%20Querying-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Database & Engineering Skills |
-|:---:|
-| Relational Database Design |
-| Database Modeling & Normalization |
-| SQL Querying |
-| ETL Fundamentals |
-| Data Processing |
-| REST API Integration |
-| Web Scraping Fundamentals |
+<img src="https://img.shields.io/badge/ETL%20Fundamentals-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Processing-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20API%20Integration-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20Scraping%20Fundamentals-F59E0B?style=flat-square"/>
 
 </div>
 
@@ -152,13 +141,50 @@
 <h3 align="center">⚙️ Tools &amp; Development Environment</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Development Tools" />
 </p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logo
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
+</div>
+
+<br/>
+
+<!-- COMPUTER SCIENCE FOUNDATIONS -->
+
+<h3 align="center">🧠 Computer Science Foundations</h3>
+
+<p align="center">
+  <samp>CORE CONCEPTS • SOFTWARE ENGINEERING • PROBLEM SOLVING</samp>
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database%20Management%20Systems-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Systems%20Analysis%20%26%20Design-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20Development%20Life%20Cycle-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Requirements%20Engineering-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agile%20%26%20Scrum-F59E0B?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <samp>CONTINUOUSLY LEARNING • PRACTICING • BUILDING</samp>
+</p>
+
+<!-- END TECHNICAL SKILLS -->
 ---
 
 ## 🚀 Featured Projects
