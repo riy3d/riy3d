@@ -186,16 +186,28 @@
 
 <!-- END TECHNICAL SKILLS -->
 ---
+<!-- FEATURED PROJECTS -->
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 01. Three Store — Store Management System
+<p align="center">
+  <samp>DESIGNING • DEVELOPING • ENGINEERING • INNOVATING</samp>
+</p>
 
-**Desktop Application | Database-Driven System**
+<br/>
 
-A desktop management system designed to support real-world electronics store operations.
+<!-- PROJECT 01 -->
 
-**Key Features:**
+<h3>01. 🏪 Three Store — Store Management System</h3>
+
+<p>
+  <b>DESKTOP APPLICATION</b> • <b>DATABASE-DRIVEN SYSTEM</b>
+</p>
+
+A desktop management system designed to support real-world electronics store operations through integrated inventory, sales, customer, and financial management.
+
+<b>Key Features</b>
+
 - Product and inventory management.
 - Sales and invoice management.
 - Customer accounts and credit transactions.
@@ -203,69 +215,113 @@ A desktop management system designed to support real-world electronics store ope
 - Relational database integration.
 - Business logic and operational workflows.
 
-**Tech Stack:** C# · WPF · Microsoft SQL Server
+<b>Tech Stack</b>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ---
 
-### 02. Gam3ly — Smart Electronics Marketplace
+<!-- PROJECT 02 -->
 
-**Graduation Project | Recommendation Systems | System Design**
+<h3>02. 🛒 Gam3ly — Smart Electronics Marketplace</h3>
 
-A smart multi-vendor electronics marketplace featuring a PC build recommendation system.
+<p>
+  <b>GRADUATION PROJECT</b> • <b>RECOMMENDATION SYSTEMS</b> • <b>SYSTEM DESIGN</b>
+</p>
+
+A smart multi-vendor electronics marketplace featuring an intelligent PC Build Recommendation Engine.
 
 My contribution focuses on designing and developing the recommendation engine and its underlying logic.
 
-**Key Areas:**
+<b>Key Areas</b>
+
 - Recommendation engine development.
-- PC component compatibility.
+- PC component compatibility analysis.
 - Budget-based PC build generation.
 - Performance and price optimization.
 - Recommendation ranking.
 - Data-driven product selection.
 - System architecture and integration.
 
-**Project Status:** In Progress
+<b>Project Focus</b>
+
+<p>
+  <img src="https://img.shields.io/badge/PC%20Recommendations-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Compatibility%20Logic-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data--Driven%20Systems-0891B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square"/>
+</p>
 
 ---
 
-### 03. Smart Traffic Manager
+<!-- PROJECT 03 -->
 
-**Academic Project | Systems Analysis & Design**
+<h3>03. 🚦 Smart Traffic Manager</h3>
+
+<p>
+  <b>ACADEMIC PROJECT</b> • <b>SYSTEMS ANALYSIS &amp; DESIGN</b>
+</p>
 
 An academic project focused on analyzing and designing a smart traffic management solution.
 
-**Key Areas:**
+<b>Key Areas</b>
+
 - Requirements Engineering.
 - System Modeling.
 - UML Diagrams.
 - System Architecture.
-- Software Development Life Cycle.
+- Software Development Life Cycle (SDLC).
+
+<p>
+  <img src="https://img.shields.io/badge/Systems%20Analysis-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UML-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Software%20Design-06B6D4?style=flat-square"/>
+</p>
 
 ---
 
-### 04. Relational Database Projects
+<!-- PROJECT 04 -->
 
-**Database Engineering | SQL | PostgreSQL**
+<h3>04. 🗄️ Relational Database Projects</h3>
 
-Hands-on database projects focused on understanding relational database concepts and practical SQL operations.
+<p>
+  <b>DATABASE ENGINEERING</b> • <b>SQL</b> • <b>POSTGRESQL</b>
+</p>
 
-**Key Areas:**
+Hands-on database projects focused on understanding relational database concepts, schema design, and practical SQL operations.
+
+<b>Key Areas</b>
+
 - Database Schema Design.
 - Tables and Relationships.
 - Primary and Foreign Keys.
-- SQL Queries.
-- Data Manipulation.
+- SQL Queries and Data Manipulation.
 - Database Normalization.
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database%20Design-6366F1?style=flat-square"/>
+</p>
 
 ---
 
-### 05. Python for Data Engineering
+<!-- PROJECT 05 -->
 
-**Learning Project | Data Engineering Foundations**
+<h3>05. 🐍 Python for Data Engineering</h3>
+
+<p>
+  <b>LEARNING PROJECT</b> • <b>DATA ENGINEERING FOUNDATIONS</b>
+</p>
 
 Practical exercises and projects focused on developing data engineering workflows using Python and different data sources.
 
-**Key Areas:**
+<b>Key Areas</b>
+
 - Data Extraction.
 - Web Scraping.
 - REST API Integration.
@@ -273,6 +329,20 @@ Practical exercises and projects focused on developing data engineering workflow
 - Database Loading.
 - ETL Pipeline Fundamentals.
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Processing-0891B2?style=flat-square"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <samp>FROM IDEAS TO SYSTEMS • FROM DATA TO SOLUTIONS</samp>
+</p>
+
+<!-- END FEATURED PROJECTS -->
 ---
 
 ## 📚 Currently Learning
