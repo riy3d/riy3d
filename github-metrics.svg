@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#17152F"/>
+    </linearGradient>
+
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="360" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1098" height="358" rx="21" fill="none" stroke="#263451"/>
+
+  <text x="45" y="52" fill="#94A3B8" font-family="Arial" font-size="13" letter-spacing="3">RIYAD • DEVELOPER ANALYTICS</text>
+  <text x="45" y="91" fill="#F8FAFC" font-family="Arial" font-size="29" font-weight="bold">GitHub Metrics</text>
+  <text x="45" y="119" fill="#94A3B8" font-family="Arial" font-size="14">A snapshot of my development journey</text>
+
+  <circle cx="1040" cy="55" r="7" fill="#22C55E" filter="url(#glow)"/>
+  <text x="1024" y="82" text-anchor="end" fill="#64748B" font-family="Arial" font-size="11">PROFILE OVERVIEW</text>
+
+  <!-- Card 1 -->
+  <rect x="35" y="150" width="245" height="145" rx="15" fill="#111B32" stroke="#263B5D"/>
+  <rect x="35" y="150" width="245" height="4" rx="2" fill="url(#blue)"/>
+  <text x="60" y="190" fill="#94A3B8" font-family="Arial" font-size="13">PROFILE</text>
+  <text x="60" y="230" fill="#38BDF8" font-family="Arial" font-size="27" font-weight="bold">RIY3D</text>
+  <text x="60" y="263" fill="#CBD5E1" font-family="Arial" font-size="13">Building &amp; Learning</text>
+
+  <!-- Card 2 -->
+  <rect x="300" y="150" width="245" height="145" rx="15" fill="#111B32" stroke="#263B5D"/>
+  <rect x="300" y="150" width="245" height="4" rx="2" fill="url(#purple)"/>
+  <text x="325" y="190" fill="#94A3B8" font-family="Arial" font-size="13">MAIN INTEREST</text>
+  <text x="325" y="230" fill="#A78BFA" font-family="Arial" font-size="25" font-weight="bold">DATA</text>
+  <text x="325" y="263" fill="#CBD5E1" font-family="Arial" font-size="13">Engineering &amp; Cloud</text>
+
+  <!-- Card 3 -->
+  <rect x="565" y="150" width="245" height="145" rx="15" fill="#111B32" stroke="#263B5D"/>
+  <rect x="565" y="150" width="245" height="4" rx="2" fill="#06B6D4"/>
+  <text x="590" y="190" fill="#94A3B8" font-family="Arial" font-size="13">CURRENT FOCUS</text>
+  <text x="590" y="230" fill="#22D3EE" font-family="Arial" font-size="25" font-weight="bold">SQL + PYTHON</text>
+  <text x="590" y="263" fill="#CBD5E1" font-family="Arial" font-size="13">Learning by Building</text>
+
+  <!-- Card 4 -->
+  <rect x="830" y="150" width="235" height="145" rx="15" fill="#111B32" stroke="#263B5D"/>
+  <rect x="830" y="150" width="235" height="4" rx="2" fill="#F59E0B"/>
+  <text x="855" y="190" fill="#94A3B8" font-family="Arial" font-size="13">MINDSET</text>
+  <text x="855" y="230" fill="#FBBF24" font-family="Arial" font-size="25" font-weight="bold">GROWTH</text>
+  <text x="855" y="263" fill="#CBD5E1" font-family="Arial" font-size="13">Consistency is Key</text>
+
+  <text x="550" y="335" text-anchor="middle" fill="#64748B" font-family="Arial" font-size="12" letter-spacing="2">LEARN • BUILD • IMPROVE • REPEAT</text>
+</svg>
