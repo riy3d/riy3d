@@ -83,58 +83,81 @@
 
 <!-- END ABOUT ME -->
 ---
+<!-- TECHNICAL SKILLS -->
 
-## 🛠️ Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp" />
+<p align="center">
+  <samp>PROGRAMMING • DATABASES • ENGINEERING • TOOLS</samp>
 </p>
 
-- Python
-- C#
-- C++
-- SQL
+<br/>
 
-### 🗄️ Databases & Data Engineering
+<!-- PROGRAMMING LANGUAGES -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp" alt="Programming Languages"/>
 </p>
 
-- Relational Database Design
-- Database Modeling & Normalization
-- SQL Querying
-- Microsoft SQL Server
-- PostgreSQL
-- ETL Fundamentals
-- Data Processing
-- REST API Integration
-- Web Scraping Fundamentals
+<div align="center">
 
-### ⚙️ Tools & Development Environment
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+</div>
+
+<br/>
+
+<!-- DATABASES & DATA ENGINEERING -->
+
+<h3 align="center">🗄️ Databases &amp; Data Engineering</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database Technologies"/>
 </p>
 
-- Git & GitHub
-- Visual Studio
-- Visual Studio Code
-- SQL Server Management Studio
-- Bash
-- Jira
+<div align="center">
 
-### 🧠 Computer Science Foundations
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Database Management Systems
-- Systems Analysis & Design
-- Software Development Life Cycle (SDLC)
-- Requirements Engineering
-- Agile & Scrum Fundamentals
+</div>
+
+<br/>
+
+<div align="center">
+
+| Database & Engineering Skills |
+|:---:|
+| Relational Database Design |
+| Database Modeling & Normalization |
+| SQL Querying |
+| ETL Fundamentals |
+| Data Processing |
+| REST API Integration |
+| Web Scraping Fundamentals |
+
+</div>
+
+<br/>
+
+<!-- TOOLS -->
+
+<h3 align="center">⚙️ Tools &amp; Development Environment</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Development Tools"/>
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logo
 
 ---
 
