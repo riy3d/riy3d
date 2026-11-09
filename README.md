@@ -284,9 +284,7 @@ I'm continuously developing the technical foundations needed to become a Data En
 
 <!-- CONTRIBUTION ACTIVITY DASHBOARD -->
 
-<h2 align="center">
-  ⚡ CONTRIBUTION ACTIVITY
-</h2>
+<h2 align="center">⚡ CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
   <samp>BUILDING • LEARNING • ENGINEERING • GROWING</samp>
@@ -296,21 +294,13 @@ I'm continuously developing the technical foundations needed to become a Data En
 
 <div align="center">
 
-<table width="100%" border="0">
-<tr>
-<td align="center">
-
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=riy3d&bg_color=0b1020&color=58a6ff&line=8b5cf6&point=ffffff&area=true&area_color=2563eb&hide_border=true&custom_title=RIYAD%20%7C%20CONTRIBUTION%20JOURNEY"
-width="100%"
-alt="Riyad Contribution Activity Dashboard"
+  src="./assets/contribution-activity.svg"
+  width="100%"
+  alt="Riyad's GitHub Contribution Dashboard"
 />
 
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/01-CONSISTENCY-38BDF8?style=for-the-badge&labelColor=0B1020" />
 &nbsp;
@@ -327,7 +317,6 @@ alt="Riyad Contribution Activity Dashboard"
 </div>
 
 <!-- END CONTRIBUTION ACTIVITY DASHBOARD -->
-
 ---
 
 ## 📅 GitHub Metrics Dashboard
