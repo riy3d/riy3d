@@ -331,24 +331,58 @@ I'm continuously developing the technical foundations needed to become a Data En
 
 ---
 
-## 🤝 Let's Connect
+<!-- LET'S CONNECT -->
 
-I'm always interested in connecting with people passionate about Data Engineering, Software Development, Cloud Computing, and Artificial Intelligence.
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+  <samp>
+    OPEN TO COLLABORATION • KNOWLEDGE SHARING • NEW OPPORTUNITIES
+  </samp>
+</p>
+
+<p align="center">
+  I'm always excited to connect with developers, engineers, and tech enthusiasts
+  who share an interest in <b>Data Engineering, Software Development,
+  Cloud Computing, and Artificial Intelligence.</b>
+  <br/>
+  Let's exchange ideas, learn together, and build meaningful things.
+</p>
+
+<br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/riyad-ayman-771585361/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://github.com/riy3d">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
+&nbsp;
 <a href="mailto:riyadaymanshora@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send an Email"/>
 </a>
 
 <br/><br/>
 
-**"Turning data into insights, and ideas into engineering solutions."**
+<img src="https://img.shields.io/badge/INTEREST-DATA%20ENGINEERING-38BDF8?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/INTEREST-CLOUD%20COMPUTING-8B5CF6?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/INTEREST-ARTIFICIAL%20INTELLIGENCE-06B6D4?style=flat-square"/>
+
+<br/><br/>
+
+<h3>
+  <samp>"Turning Data Into Insights, Ideas Into Innovation."</samp>
+</h3>
+
+<p align="center">
+  <samp>THANK YOU FOR VISITING MY PROFILE 💙</samp>
+</p>
 
 </div>
+
+<!-- END LET'S CONNECT -->
