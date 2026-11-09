@@ -4,21 +4,23 @@
 
 ### Mathematics & Computer Science Student | Aspiring Data Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Data-Driven+Systems;Exploring+Data+Engineering+%26+Cloud;Designing+Databases+%26+ETL+Pipelines;Exploring+AI+%26+Recommendation+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Exploring+Data+Engineering;Building+End-to-End+Data+Pipelines;Transforming+Raw+Data+into+Insights;Designing+Relational+Database+Systems;Exploring+ETL+Workflows;Learning+Cloud+Data+Engineering;Building+Data-Driven+Applications;Developing+Recommendation+Engines;Exploring+AI-Powered+Systems;Connecting+Data+Engineering+with+AI" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/riy3ddd">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/riy3d">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/riyad-ayman-771585361/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:riyadaymanshora@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=riy3ddd&style=for-the-badge&color=blue" alt="Profile Views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=riy3d&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
 
@@ -28,20 +30,20 @@
 
 I'm **Riyad Ayman Shoura**, a Mathematics and Computer Science student at **Menoufia University, Egypt**.
 
-I'm passionate about building reliable, data-driven systems and understanding how data moves from raw sources into meaningful information.
+I'm interested in understanding how data is collected, processed, structured, and transformed into reliable information and intelligent applications.
 
-My primary career interest is **Data Engineering**, with a growing focus on Cloud Data Engineering, database architecture, ETL pipelines, and AI-powered applications.
+My primary career direction is **Data Engineering**, with a growing interest in **Cloud Data Engineering, Database Systems, and Artificial Intelligence**.
 
-I enjoy combining mathematical thinking, programming, and system design to solve practical engineering problems.
+I enjoy combining mathematical thinking, programming, and engineering principles to solve practical problems and build useful systems.
 
-### What I'm Working Towards
+### 🎯 My Engineering Goals
 
-- Building scalable and reliable data pipelines.
-- Designing and managing relational databases.
-- Developing end-to-end data engineering solutions.
-- Exploring cloud-based data infrastructure.
-- Integrating AI capabilities into real-world applications.
-- Building intelligent recommendation systems.
+- Build reliable, end-to-end data pipelines.
+- Develop strong Python and SQL skills.
+- Design and manage relational database systems.
+- Understand modern data architectures and cloud infrastructure.
+- Explore AI-powered applications and recommendation systems.
+- Turn raw data into structured, meaningful information.
 
 ---
 
@@ -50,7 +52,7 @@ I enjoy combining mathematical thinking, programming, and system design to solve
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,sql"/>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp" />
 </p>
 
 - Python
@@ -61,95 +63,88 @@ I enjoy combining mathematical thinking, programming, and system design to solve
 ### 🗄️ Databases & Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
 - Relational Database Design
 - Database Modeling & Normalization
 - SQL Querying
-- PostgreSQL
 - Microsoft SQL Server
-- Data Extraction, Transformation & Loading (ETL)
-- Data Processing Fundamentals
-- API Integration
-- Web Scraping
+- PostgreSQL
+- ETL Fundamentals
+- Data Processing
+- REST API Integration
+- Web Scraping Fundamentals
 
 ### ⚙️ Tools & Development Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
 </p>
 
 - Git & GitHub
 - Visual Studio
 - Visual Studio Code
-- SQL Server Management Studio (SSMS)
+- SQL Server Management Studio
 - Bash
 - Jira
 
-### 🧠 Computer Science & Engineering Concepts
+### 🧠 Computer Science Foundations
 
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- System Analysis & Design
 - Database Management Systems
+- Systems Analysis & Design
 - Software Development Life Cycle (SDLC)
 - Requirements Engineering
-- ETL Fundamentals
-- Agile & Scrum
+- Agile & Scrum Fundamentals
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. Three Store / Spring Store — Store Management System
+### 01. Three Store — Store Management System
 
-**Desktop Application | Database Engineering**
+**Desktop Application | Database-Driven System**
 
-A management system designed to support real-world electronics store operations.
+A desktop management system designed to support real-world electronics store operations.
 
-**Key Areas:**
-- Inventory and product management.
+**Key Features:**
+- Product and inventory management.
 - Sales and invoice management.
 - Customer accounts and credit transactions.
 - Maintenance and expense tracking.
 - Relational database integration.
 - Business logic and operational workflows.
 
-**Tech Stack:** C# · WPF · SQL Server
-
-🔗 Repository: [Project Repository](PROJECT_LINK_1)
+**Tech Stack:** C# · WPF · Microsoft SQL Server
 
 ---
 
 ### 02. Gam3ly — Smart Electronics Marketplace
 
-**Graduation Project | Recommendation Systems | Data Engineering**
+**Graduation Project | Recommendation Systems | System Design**
 
-A smart multi-vendor electronics marketplace with an intelligent PC build recommendation system.
+A smart multi-vendor electronics marketplace featuring a PC build recommendation system.
 
-My contribution focuses on building the recommendation engine and its underlying system, translating user requirements into structured recommendation logic.
+My contribution focuses on designing and developing the recommendation engine and its underlying logic.
 
 **Key Areas:**
 - Recommendation engine development.
 - PC component compatibility.
-- Budget-based build generation.
+- Budget-based PC build generation.
 - Performance and price optimization.
 - Recommendation ranking.
 - Data-driven product selection.
 - System architecture and integration.
 
-**Tech Stack:** Python · SQL · Data Processing · Recommendation Logic
-
-🔗 Repository: [Project Repository](PROJECT_LINK_2)
-
-*Graduation project — In Progress.*
+**Project Status:** In Progress
 
 ---
 
 ### 03. Smart Traffic Manager
 
-**System Analysis & Design**
+**Academic Project | Systems Analysis & Design**
 
 An academic project focused on analyzing and designing a smart traffic management solution.
 
@@ -158,9 +153,7 @@ An academic project focused on analyzing and designing a smart traffic managemen
 - System Modeling.
 - UML Diagrams.
 - System Architecture.
-- Software Development Life Cycle (SDLC).
-
-🔗 Repository: [Project Repository](PROJECT_LINK_3)
+- Software Development Life Cycle.
 
 ---
 
@@ -168,7 +161,7 @@ An academic project focused on analyzing and designing a smart traffic managemen
 
 **Database Engineering | SQL | PostgreSQL**
 
-Hands-on projects focused on building and managing relational database systems.
+Hands-on database projects focused on understanding relational database concepts and practical SQL operations.
 
 **Key Areas:**
 - Database Schema Design.
@@ -178,17 +171,13 @@ Hands-on projects focused on building and managing relational database systems.
 - Data Manipulation.
 - Database Normalization.
 
-**Tech Stack:** PostgreSQL · SQL · Bash
-
-🔗 Repository: [Project Repository](PROJECT_LINK_4)
-
 ---
 
-### 05. Python Project for Data Engineering
+### 05. Python for Data Engineering
 
-**IBM | End-to-End Data Engineering**
+**Learning Project | Data Engineering Foundations**
 
-A practical project focused on developing data engineering workflows using Python and different data sources.
+Practical exercises and projects focused on developing data engineering workflows using Python and different data sources.
 
 **Key Areas:**
 - Data Extraction.
@@ -196,19 +185,15 @@ A practical project focused on developing data engineering workflows using Pytho
 - REST API Integration.
 - Data Transformation.
 - Database Loading.
-- ETL Pipeline Development.
-
-**Tech Stack:** Python · SQL · APIs · Web Scraping
-
-🔗 Repository: [Project Repository](PROJECT_LINK_5)
+- ETL Pipeline Fundamentals.
 
 ---
 
 ## 📚 Currently Learning
 
-My current learning journey focuses on strengthening the foundations required for professional Data Engineering.
+I'm continuously developing the technical foundations needed to become a Data Engineer.
 
-| Area | Focus |
+| Area | Current Focus |
 |---|---|
 | Python | Programming, OOP & Data Processing |
 | SQL | Advanced Queries & Database Design |
@@ -216,11 +201,11 @@ My current learning journey focuses on strengthening the foundations required fo
 | Databases | Relational Database Management |
 | Data Structures | Algorithms & Problem Solving |
 | Cloud | Cloud Data Engineering Fundamentals |
-| AI | Recommendation Systems & Data-Driven Applications |
+| Artificial Intelligence | Recommendation Systems & AI Applications |
 
 ---
 
-## 🎯 Engineering Interests
+## 🔬 Engineering Interests
 
 - Data Engineering
 - Cloud Data Engineering
@@ -228,8 +213,9 @@ My current learning journey focuses on strengthening the foundations required fo
 - Data Pipelines & ETL
 - Database Architecture
 - Distributed Data Systems
-- AI-Powered Applications
+- Artificial Intelligence
 - Recommendation Systems
+- Data-Driven Applications
 
 ---
 
@@ -237,13 +223,13 @@ My current learning journey focuses on strengthening the foundations required fo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=riy3ddd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=riy3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riy3ddd&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riy3d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=riy3ddd&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=riy3d&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -253,7 +239,17 @@ My current learning journey focuses on strengthening the foundations required fo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riy3ddd&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riy3d&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 📅 GitHub Metrics Dashboard
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%" />
 
 </div>
 
@@ -261,20 +257,18 @@ My current learning journey focuses on strengthening the foundations required fo
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working in Data Engineering, Software Development, Cloud Computing, and AI.
+I'm always interested in connecting with people passionate about Data Engineering, Software Development, Cloud Computing, and Artificial Intelligence.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/riyad-ayman-771585361/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<a href="https://github.com/riy3ddd">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/riy3d">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
-
 <a href="mailto:riyadaymanshora@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <br/><br/>
