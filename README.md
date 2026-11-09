@@ -223,10 +223,8 @@ I'm continuously developing the technical foundations needed to become a Data En
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=riy3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=riy3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riy3d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=riy3d&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
