@@ -282,46 +282,51 @@ I'm continuously developing the technical foundations needed to become a Data En
 <!-- END GITHUB ANALYTICS -->
 ---
 
-<!-- CONTRIBUTION ACTIVITY -->
-<h2 align="center">⚡ Contribution Activity</h2>
+<!-- CONTRIBUTION ACTIVITY DASHBOARD -->
+
+<h2 align="center">
+  ⚡ CONTRIBUTION ACTIVITY
+</h2>
 
 <p align="center">
-  <samp>CONSISTENCY • PROGRESS • CONTINUOUS LEARNING</samp>
+  <samp>BUILDING • LEARNING • ENGINEERING • GROWING</samp>
 </p>
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/riy3d">
+<table width="100%" border="0">
+<tr>
+<td align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=riy3d&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Riyad's%20Contribution%20Journey"
-  width="100%"
-  alt="Riyad's GitHub Contribution Activity"
+src="https://github-readme-activity-graph.vercel.app/graph?username=riy3d&bg_color=0b1020&color=58a6ff&line=8b5cf6&point=ffffff&area=true&area_color=2563eb&hide_border=true&custom_title=RIYAD%20%7C%20CONTRIBUTION%20JOURNEY"
+width="100%"
+alt="Riyad Contribution Activity Dashboard"
 />
 
-</a>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/01-CONSISTENCY-0EA5E9?style=for-the-badge&labelColor=0D1117"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/02-PROGRESS-8B5CF6?style=for-the-badge&labelColor=0D1117"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/03-ENGINEERING-06B6D4?style=for-the-badge&labelColor=0D1117"
-/>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- END CONTRIBUTION ACTIVITY -->
+<img src="https://img.shields.io/badge/01-CONSISTENCY-38BDF8?style=for-the-badge&labelColor=0B1020" />
+&nbsp;
+<img src="https://img.shields.io/badge/02-GROWTH-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+&nbsp;
+<img src="https://img.shields.io/badge/03-ENGINEERING-06B6D4?style=for-the-badge&labelColor=0B1020" />
+
+<br/><br/>
+
+<p align="center">
+  <samp>EVERY CONTRIBUTION IS A STEP FORWARD.</samp>
+</p>
+
+</div>
+
+<!-- END CONTRIBUTION ACTIVITY DASHBOARD -->
 
 ---
 
