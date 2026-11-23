@@ -2400,6 +2400,11 @@
           rx="3"
           fill="#17213A"/>
     
+    <rect x="969" y="595"
+          width="12" height="12"
+          rx="3"
+          fill="#17213A"/>
+    
 <text x="55" y="735"
       fill="#FFFFFF"
       font-size="18"
